@@ -2,6 +2,7 @@ function App() {
   return (
     <div style={{ padding: "40px", fontSize: "28px", fontFamily: "Arial" }}>
       <div>Hello AIMaster.live 🌍</div>
+      <br/>
     <input
         type="text"
         placeholder="Enter your name"
