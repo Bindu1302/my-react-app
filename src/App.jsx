@@ -4,7 +4,7 @@ function App() {
       <div>Hello AIMaster.live 🌍</div>
     
     <button
-        onClick={handleClick}
+        
         style={{
           marginTop: "20px",
           padding: "12px 24px",
